@@ -2,7 +2,7 @@ import sys
 
 # packagesPath = "C:/Users/avish/PycharmProjects/FirstProject/venv/Lib/site-packages"
 
-projectPath = "C:/Users/avish/PycharmProjects/FirstProject"
+projectPath = "C:/Users/avish/PycharmProjects/FirstProject/First_Tool_Python"
 # sys.path.append(packagesPath)
 sys.path.append(projectPath)
 
